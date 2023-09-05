@@ -19,7 +19,11 @@ const port = process.env.PORT || 5000;
 
 const server = http.createServer(app);
 
-mongoose.connect(process.env.MONGODB_URL).then(() => {
+mongoose.set("strictQuery", false);
+
+
+
+mongoose.connect('mongodb://0.0.0.0:27017/CinePhile').then(() => {
   console.log("Mongodb connected");
   server.listen(port, () => {
     console.log(`Server is listening on port ${port}`);

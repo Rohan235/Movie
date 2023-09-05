@@ -131,12 +131,6 @@ This project was created using the following technologies.
 --- - 
 ![img-10](https://github.com/berthutapea/mern-movie/assets/111676859/1532b9cb-0944-4b47-8898-7273f8ce6082)
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 

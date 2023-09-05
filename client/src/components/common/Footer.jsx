@@ -42,17 +42,17 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy; 2023 CinePhile  Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://berthutapea.vercel.app/"
+            href=" "
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            Rohan Jadhav
           </a>
         </Typography>
       </Paper>
